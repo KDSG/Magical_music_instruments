@@ -5,3 +5,9 @@ These kits sense a particular color (Green by default) and when you try to opera
 
 
 Demo Video: [Click Here](https://drive.google.com/file/d/0B52MPjpQNqjRcFYzX0llQWRWdzQ/view)
+
+
+# Contributors 
+* [Karan Guleri](https://www.github.com/KDSG)
+* [Ayush Aggarwal](https://www.github.com/ayushagg31)
+* Tarun Pratap
